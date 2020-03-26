@@ -1,5 +1,5 @@
 __authors__ = "Cyrine G"
-__date__ = "31/12/2019"
+__date__= "31/12/2019"
 
 """
 Ce fichier permet de definir le plateau du jeu
